@@ -30,7 +30,7 @@ The **Pro pack** adds:
 - ClickSend support and dry-run mode
 - AU compliance notes, setup docs and test scripts
 
-**Want the full Australian version?** The Quote Follow-Up Pack (Pro) adds the full business-day chase, YES acceptance, reply forwarding, email, ClickSend and full setup docs. Store link coming soon; questions to aussieflows@mail.grokbot.com.
+**Want the full Australian version?** The Quote Follow-Up Pack (Pro) adds the full business-day chase, YES acceptance, reply forwarding, email, ClickSend and full setup docs. [Get the Pro pack on Polar](https://buy.polar.sh/polar_cl_BzwxCd6OSmrOF1zGzstyU3MLy9xWuVctJPuo54XrAzy); questions to aussieflows@mail.grokbot.com.
 
 [Notify me when Pro is out](mailto:aussieflows@mail.grokbot.com?subject=Notify%20me%20-%20Quote%20Follow-Up%20Pack).
 
