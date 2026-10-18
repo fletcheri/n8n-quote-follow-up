@@ -9,6 +9,8 @@ Sent a quote and heard nothing? This sends the customer one polite check-in SMS 
 - STOP/START opt-out handling (Spam Act 2003: business name + "Reply STOP to opt out" in every text)
 - Daily SMS cap and optional webhook secret (`sharedSecret`)
 
+Tested end-to-end in n8n with simulated APIs (a local mock of the Twilio API); no live SMS or email provider was used in testing.
+
 ## Setup (about 15 minutes)
 1. n8n → **Import from file** → `workflow/quote-follow-up-lite.n8n.json`.
 2. Open **Decide** and set `businessName`, `sms.from` (your Twilio AU mobile in +61 format) and `sms.twilioAccountSid`.
